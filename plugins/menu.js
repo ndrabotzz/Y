@@ -442,7 +442,7 @@ let handler = async (m, { conn, usedPrefix: _p, args, command }) => {
 「 *Bσt Ɩnfσrmαtισn* 」
 🌸 Runtime: ${uptime}
 🌸 Bot Name: ${conn.user.name}
-🌸 Name Owner: ℓettα - sαmα
+🌸 Name Owner: Indra
 🌸 Number Owner: ${ow}
 🌸 Platform: ${platform}
 🌸 Mode: ${mode}
